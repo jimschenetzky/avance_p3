@@ -63,7 +63,7 @@
             n = Number(n);
             //crearé una función asincrónica
             async function portfolio() {
-                const consulta = await fetch("https://raw.githubusercontent.com/jimschenetzky/Clase_11/main/datos.json");
+                const consulta = await fetch("https://raw.githubusercontent.com/jimschenetzky/avance_p3/main/datos.json");
                 const data = await consulta.json();
                 const cuantos = data.length;
                 //Como n es siempre número: Ya no tengo posibilidad de null
