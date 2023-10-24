@@ -1,55 +1,56 @@
 [
-{ "nombre": "En ruedas",
-        "fotos": ["https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/enruedas/enruedas1.png?raw=true", "https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/enruedas/enruedas2.png?raw=true", "https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/enruedas/enruedas3.png?raw=true"],
+    {
+        "nombre": "En ruedas",
+        "fotos": ["https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_1.jpg?raw=true", "https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_2.jpg?raw=true", "https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_3.jpg?raw=true"],
         "soporte": "Servicios",
         "abstract": "Servicios moviles para comunidades alejadas",
         "texto": "Este proyecto representa la concepción de una aplicación hipotética con un propósito noble: llevar servicios esenciales a comunidades distantes de las áreas urbanas. A través de una red de proximidad, la aplicación se convierte en un puente virtual que acerca servicios básicos, como bancos y registros civiles, a las poblaciones rurales y remotas. Su objetivo es reducir las barreras geográficas y económicas, brindando acceso a servicios fundamentales para mejorar la calidad de vida de estas comunidades. Esta iniciativa busca empoderar a quienes viven en áreas apartadas, fomentando la inclusión y el desarrollo, y es un ejemplo de cómo la tecnología puede servir a la equidad y el bienestar social."
     },
     {
         "nombre": "Yendegaia",
-        "fotos": ["https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/yendegaia/yendegaia1.png?raw=true", "https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/yendegaia/yendegaia2.png?raw=true", "https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/yendegaia/Yendegaia3.jpg?raw=true"],
+        "fotos": ["https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_4.png?raw=true", "https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_5.jpg?raw=true", "https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_6.jpg?raw=true"],
         "soporte": "Juegos",
         "abstract": "juego de mesa ecológico",
         "texto": "El juego empieza con un grupo de amigos que está acampando en el bosque y se les aparece un espíritu, que les pide ayuda para salvar su tierra de las personas corruptas que lo están matando. Ellos aceptan y el espíritu les concede a cada uno un poder especial, que les servirá para combatir junto con las especies nativas a las distintas amenazas."
     },
     {
         "nombre": "Reciclados",
-        "fotos": ["https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/reciclados/reciclados1.jpg?raw=true", "https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/reciclados/reciclados2.jpg?raw=true", "https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/reciclados/reciclados3.jpg?raw=true"],
+        "fotos": ["https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_7.jpg?raw=true", "https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_8.jpg?raw=true", "https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_9.jpg?raw=true"],
         "soporte": "Textil",
         "abstract": "Desarrollo de 2 prendas recicladas en jeans y cotelé.",
         "texto": "Esta colección textil de dos prendas abraza la sostenibilidad y la creatividad al reutilizar jeans desgastados y chaquetas de cotelé previamente amadas. Cada pieza es única, con los jeans transformados en faldas y las chaquetas de cotelé convertidas en chaquetas sin mangas. La mezcla de tejidos y patrones cuenta una historia de renacimiento y reinvención. Cada prenda conserva la esencia del pasado mientras se reinventa para el presente, representando una moda amigable con el medio ambiente y la individualidad. Esta colección es un testimonio de la belleza en la reutilización y una declaración de estilo único y sostenible."
     },
     {
         "nombre": "Tableado",
-        "fotos": ["https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/tableados/tableados1.jpg?raw=true", "https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/tableados/tableados2.jpg?raw=true", "https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/tableados/tableados3.jpg?raw=true"],
+        "fotos": ["https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_10.jpg?raw=true", "https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_11.jpg?raw=true", "https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_12.jpg?raw=true"],
         "soporte": "Textil",
         "abstract": "Pliegues en Gabardina: Innovación Textil",
         "texto": "La colección de tres piezas en gabardina presenta una estética sofisticada y atemporal. Los colores elegidos, gris, beige y crema, evocan una paleta suave y neutra que se adapta a cualquier ocasión. Lo más destacado de esta colección es la técnica de pinzas, utilizada de manera ingeniosa para crear pliegues y detalles estructurados en cada prenda. Estas pinzas agregan un toque de elegancia y modernidad, resaltando la silueta de quien las lleva. La gabardina, conocida por su durabilidad y calidad, garantiza comodidad y versatilidad. Estas prendas son un testimonio de artesanía y estilo, diseñadas para perdurar en el tiempo y destacar en cualquier guardarropa."
     },
     {
         "nombre": "REN",
-        "fotos": ["https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/ren/ren1.png?raw=true", "https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/ren/ren3.jpg?raw=true", "https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/ren/ren3.png?raw=true"],
+        "fotos": ["https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_13.jpg?raw=true", "https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_14.jpg?raw=true", "https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_15.jpg?raw=true"],
         "soporte": "Textil",
         "abstract": "colección textil de 3 piezas en base a prendas usadas.",
         "texto": "El desarrollo de esta colección textil se inspira en la versatilidad y la comodidad de las prendas de jeans, combinando camisas y pantalones en tres conjuntos únicos. Cada conjunto presenta un enfoque fresco y contemporáneo, con la textura y durabilidad del denim como protagonistas. Los retazos de camisas de algodón se integran de manera creativa en detalles, como bolsillos y parches decorativos, añadiendo un toque de suavidad y contraste a la robustez del denim. La colección refleja la moda casual y funcional para cualquier ocasión, destacando la importancia de la sostenibilidad al reutilizar materiales existentes y reducir el desperdicio textil."
     },
     {
         "nombre": "Moby",
-        "fotos": ["https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/moby/moby1.jpg?raw=true", "https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/moby/moby3.jpg?raw=true", "https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/moby/moby2.jpg?raw=true"],
+        "fotos": ["https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_16.jpg?raw=true", "https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_17.jpg?raw=true", "https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_18.jpg?raw=true"],
         "soporte": "Sustentabilidad",
         "abstract": "Servicio de indumentaria modular para recién nacidos.",
         "texto": "MoBy, Proyecto seleccionado para ser exhibido en el Open Day UC, donde se presentan los mejores proyectos del semestre, de cada Ramo.  Este proyecto fue parte del ramo Diseño e Impacto Ambiental, en conjunto con Micaela D'urso, Fernanda Machuca, Camila Mery y Valentina Rey. La propuesta busca reducir la cantidad de desechos generados tras el crecimiento de recién nacidos, mediante la propuesta de reutilización de piezas modulares desmontables entre prendas, además de reducir el costo económico en los padres o tutores."
     },
      {
         "nombre": "Captura la insulina",
-        "fotos": ["https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/diabetes/captura_la_insulina1.png?raw=true", "https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/diabetes/captura_la_insulina2.png?raw=true", "https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/diabetes/captura_la_insulina3.png?raw=true"],
+        "fotos": ["https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_19.jpg?raw=true", "https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_20.jpg?raw=true", "https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_21.jpg?raw=true"],
         "soporte": "Sustentabilidad",
         "abstract": "Un juego de equipos, separados entre “hipoglicemia” e “hiperglicemia”.",
         "texto": "Captura la insulina es un juego educativo, inspirado en el clásico Captura la bandera. En este juego un equipo será el Hiperglucémico y el otro el Hipoglucémico, necesitando reunir y llenar su jeringa con insulina y glucosa, respectivamente. Los profesores serán los glucometros, obligando a los niños a medir sus niveles de azúcar en sangre lo que significa, una penalización a elección de los profesores. "
     },
     {
         "nombre": "Identidad de marca: La bañera de Denise",
-        "fotos": ["https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/ba%C3%B1era/ba%C3%B1era1.jpg?raw=true", "https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/ba%C3%B1era/ba%C3%B1era2.jpg?raw=true", "https://github.com/jimschenetzky/fotos_p3/blob/main/imagenes%20prueba%203%20progra/ba%C3%B1era/ba%C3%B1era3.png?raw=true"],
+        "fotos": ["https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_22.jpg?raw=true", "https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_23.jpg?raw=true", "https://github.com/jimschenetzky/avance_p3/blob/main/FOTOS_PROYECTOS/FOTOS_24.png?raw=true"],
         "soporte": "Branding",
         "abstract": "Imagen de marca de un emprendimiento de peluquería y veterinaria.",
         "texto": "Se me presentó la oportunidad de actualizar la imagen de marca de un emprendimiento de peluquería y veterinaria canina y felina a domicilio. Mediante el análisis de la marca, los competidores, el rubro de servicios para mascotas. Generando un rediseño total del branding de la empresa, manteniendo únicamente el nombre, simplificando el slogan para ti y tu mascota, más comodidad y menos estrés y transformándola en Peluquería canina y veterinaria móvil libre de estrés. Se refrescó el logo y paleta de colores. "
